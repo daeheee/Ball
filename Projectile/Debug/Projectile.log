@@ -1,0 +1,10 @@
+﻿  Ball.cpp
+C:\Users\kimda\OneDrive\Desktop\CU_GP_CourseExamples-master\CU_GP_CourseExamples-master\4_Projectile\Projectile\Ball.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  G2W.cpp
+  main_ProjectileGame.cpp
+C:\Users\kimda\OneDrive\Desktop\CU_GP_CourseExamples-master\CU_GP_CourseExamples-master\4_Projectile\Projectile\ProjectileGame.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  ProjectileGame.cpp
+C:\Users\kimda\OneDrive\Desktop\CU_GP_CourseExamples-master\CU_GP_CourseExamples-master\4_Projectile\Projectile\ProjectileGame.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Room.cpp
+C:\Users\kimda\OneDrive\Desktop\CU_GP_CourseExamples-master\CU_GP_CourseExamples-master\4_Projectile\Projectile\Room.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  코드를 생성하고 있습니다...
